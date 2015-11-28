@@ -6,7 +6,7 @@
 Summary:	JavaScript minifier
 Name:		python-%{module}
 Version:	2.0.2
-Release:	1
+Release:	2
 License:	Freeware
 Group:		Development/Languages/Python
 Source0:	http://pypi.python.org/packages/source/j/jsmin/jsmin-%{version}.tar.gz
