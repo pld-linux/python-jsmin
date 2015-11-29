@@ -13,7 +13,7 @@ Source0:	http://pypi.python.org/packages/source/j/jsmin/jsmin-%{version}.tar.gz
 # Source0-md5:	cd87c582cf897692df63c506e309249b
 URL:		http://pypi.python.org/pypi/jsmin
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
